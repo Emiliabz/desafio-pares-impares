@@ -1,36 +1,27 @@
-﻿# Desafio: Pares e Ãmpares
+﻿# Desafio: Pares Impares
 
-Desafio de lÃ³gica para separar nÃºmeros pares e Ã­mpares.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio bÃ¡sico que implementa algoritmos para identificar e separar nÃºmeros pares e Ã­mpares em uma coleÃ§Ã£o.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o desafio
-python desafio_pares_impares.py
+python desafio-pares-impares.py
 `
 
-## ðŸ“‹ Desafio
+## ðŸ“‹ Funcionalidades
 
-Implemente funÃ§Ãµes que:
-- Identificam nÃºmeros pares
-- Identificam nÃºmeros Ã­mpares
-- Separam em duas listas distintas
-
-## ðŸ’¡ Exemplo
-
-`python
-numeros = [1, 2, 3, 4, 5, 6]
-pares, impares = separar_pares_impares(numeros)
-# pares = [2, 4, 6]
-# impares = [1, 3, 5]
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
